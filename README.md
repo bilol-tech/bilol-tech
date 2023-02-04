@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="http://localhost:53133/#/">Bilol Abdunazarov</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="http://t.me/Bilol0004">Bilol Abdunazarov</a></h1>
 <h3 align="center">Flutter Developer 😜</h3>
 
 <div class="row">
@@ -21,7 +21,7 @@ Skills: Flutter / Android / Dart / HTML / Css / Scss / GIthub / Javascript / API
 - 👦🏻 &ensp; year: I am 18 years old.
 ### Connect With Me
 
-[<img align="left" alt="Bilol Abdunazarov | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="Bilol Abdunazarov | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
 [<img align="left" alt="Bilol Abdunazarov | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
 [<img align="left" alt="Bilol Abdunazarov | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
 [<img align="left" alt="Bilol Abdunazarov | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
@@ -91,7 +91,7 @@ Show some ❤️ by starring some of the repositories!
 <br />
 <br />
 
-[website]: http://localhost:53133/#/
+[telegram]: http://t.me/Bilol0004
 [mail]: https://mail.google.com/mail/u/0/#inbox
 [twitter]: https://twitter.com/Bilol8480
 [youtube]: https://www.youtube.com/channel/UCOttmpfUOz_gAWqSOw0VeKQ
