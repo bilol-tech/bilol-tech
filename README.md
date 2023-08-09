@@ -18,7 +18,7 @@ Skills: Flutter / Android / Dart / HTML / Css / Scss / GIthub / Javascript / API
 - 🔭 &ensp; I’m currently search work for Flutter Development (Android and iOS)
 - 🌱 &ensp; I'm currently learning Flutter, Dart & more ❤️
 - ⚡ &ensp; Fun fact: I love coding.⭐
-- 👦🏻 &ensp; year: I am 18 years old.
+- 
 ### Connect With Me
 
 [<img align="left" alt="Bilol Abdunazarov | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
