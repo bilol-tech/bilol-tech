@@ -7,7 +7,7 @@
     <img  src="https://komarev.com/ghpvc/?username=bilol-tech&label=Profile Views&color=blue&style=for-the-badge" alt="bilol-tech" />
     <a href="https://www.linkedin.com/in/bilol-tech/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/bilol-tech/" alt="Bilol" /> </a>
     <a href="https://t.me/biloltech"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Telegram&link=https://t.me/biloltech" alt="Bilol" /> </a>
-    <a href="https://instragram/bilol_tech"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Instagram&link=https://instagram/bilol_tech" alt="Bilol" /> </a>
+    <a href="https://instragram/bilol_tech/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Instagram&link=https://instagram/bilol_tech" alt="Bilol" /> </a>
     <a href="https://www.upwork.com/freelancers/~016ec07554e1c035d8"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Upwork&link=https://www.upwork.com/freelancers/~016ec07554e1c035d8" alt="Bilol" /> </a>
 </div>
 
@@ -44,7 +44,7 @@ Skills: Flutter / Android / Dart / HTML / Css / Scss / GIthub / Javascript / API
 <br />
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bilol4391&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bilol-tech&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 
 
@@ -52,10 +52,10 @@ Skills: Flutter / Android / Dart / HTML / Css / Scss / GIthub / Javascript / API
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bilol4391&show_icons=true&locale=en" alt="Bilol" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilol-tech&show_icons=true&locale=en" alt="Bilol" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilol4391&" alt="Bilol" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-tech&" alt="Bilol" />
     </td>
    </tr>
 </table>
@@ -67,8 +67,8 @@ Skills: Flutter / Android / Dart / HTML / Css / Scss / GIthub / Javascript / API
    </tr>
 </table> -->
 
-<a href="https://github.com/Bilol4391">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilol4391&theme=light&hide_langs_below=1" />
+<a href="https://github.com/bilol-tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilol-tech&theme=light&hide_langs_below=1" />
 </a>
 
 <br />
@@ -85,19 +85,19 @@ Skills: Flutter / Android / Dart / HTML / Css / Scss / GIthub / Javascript / API
 Show some ❤️ by starring some of the repositories!
 <br />
 <br />
-<img align="center" src = "https://profile-counter.glitch.me/Bilol4391/count.svg" alt ="Loading...">
+<img align="center" src = "https://profile-counter.glitch.me/bilol-tech/count.svg" alt ="Loading...">
 </div>
 
 <br />
 <br />
 
-[telegram]: http://t.me/Bilol0004
+[telegram]: http://t.me/biloltech
 [mail]: https://mail.google.com/mail/u/0/#inbox
 [twitter]: https://twitter.com/Bilol8480
-[youtube]: https://www.youtube.com/channel/UCOttmpfUOz_gAWqSOw0VeKQ
-[linkedin]: https://www.linkedin.com/in/bilol-abdunazarov-61a4a5262/
-[github]: https://github.com/Bilol4391
-[instagram]: https://www.instagram.com/bilolabdunazarov_
+[youtube]: https://www.youtube.com/@bilol_tech
+[linkedin]: https://www.linkedin.com/in/bilol-tech/
+[github]: https://github.com/bilol-tech
+[instagram]: https://www.instagram.com/bilol_tech
 [facebook]: https://www.facebook.com/bilol.abdunazarov.96
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
