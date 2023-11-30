@@ -4,7 +4,6 @@
 <div class="row">
     <img src="https://img.shields.io/github/followers/bilol-tech?label=Github%20followers&style=for-the-badge" alt="bilol-tech" />
     <img src="https://img.shields.io/github/stars/bilol-tech?label=Github%20stars&style=for-the-badge" alt="bilol-tech" />
-    <img  src="https://komarev.com/ghpvc/?username=bilol-tech&label=Profile Views&color=blue&style=for-the-badge" alt="bilol-tech" />
     <a href="https://www.linkedin.com/in/bilol-tech/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/bilol-tech/" alt="Bilol" /> </a>
     <a href="https://t.me/biloltech"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Telegram&link=https://t.me/biloltech" alt="Bilol" /> </a>
     <a href="https://instragram/bilol_tech/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Instagram&link=https://instagram/bilol_tech" alt="Bilol" /> </a>
