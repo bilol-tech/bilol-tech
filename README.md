@@ -8,7 +8,6 @@
     <a href="https://www.linkedin.com/in/bilol-tech/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/bilol-tech/" alt="Bilol" /> </a>
     <a href="https://t.me/biloltech"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Telegram&link=https://t.me/biloltech" alt="Bilol" /> </a>
     <a href="https://instragram/bilol_tech/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Instagram&link=https://instagram/bilol_tech" alt="Bilol" /> </a>
-    <a href="https://www.upwork.com/freelancers/~016ec07554e1c035d8"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Upwork&link=https://www.upwork.com/freelancers/~016ec07554e1c035d8" alt="Bilol" /> </a>
 </div>
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
