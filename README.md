@@ -2,9 +2,9 @@
 <h3 align="center">Flutter Developer 😜</h3>
 
 <div class="row">
-    <img src="https://img.shields.io/github/followers/Bilol4391?label=Github%20followers&style=for-the-badge" alt="Bilol4391" />
-    <img src="https://img.shields.io/github/stars/Bilol4391?label=Github%20stars&style=for-the-badge" alt="Bilol4391" />
-    <img  src="https://komarev.com/ghpvc/?username=Bilol4391&label=Profile Views&color=blue&style=for-the-badge" alt="Bilol4391" />
+    <img src="https://img.shields.io/github/followers/bilol-tech?label=Github%20followers&style=for-the-badge" alt="bilol-tech" />
+    <img src="https://img.shields.io/github/stars/bilol-tech?label=Github%20stars&style=for-the-badge" alt="bilol-tech" />
+    <img  src="https://komarev.com/ghpvc/?username=bilol-tech&label=Profile Views&color=blue&style=for-the-badge" alt="bilol-tech" />
     <a href="https://www.linkedin.com/in/bilol-abdunazarov-61a4a5262/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/bilol-abdunazarov-61a4a5262/" alt="Bilol" /> </a>
     <a href="https://t.me/Bilol0004"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Telegram&link=https://t.me/Bilol0004" alt="Bilol" /> </a>
     <a href="https://instragram/bilolabdunazarov_"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Instagram&link=https://instagram/bilolabdunazarov_" alt="Bilol" /> </a>
