@@ -12,10 +12,9 @@
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
-Skills: Flutter / Android / Dart / HTML / Css / Scss / GIthub / Javascript / API / Firebase, Provider / Local - Store / OOP / Git / Http
+Skills: Flutter / Dart / HTML / Css / Scss / GIthub / Javascript / API / Firebase, Provider / Local - Store / OOP / Git / Http / Gitlab / GraphQl / WebSocket / RestAPI / Local Storage / Hive / Block / Cupertino Widgets / Themes
 
 - 🔭 &ensp; I’m currently search work for Flutter Development (Android and iOS)
-- 🌱 &ensp; I'm currently learning Flutter, Dart & more ❤️
 - ⚡ &ensp; Fun fact: I love coding.⭐
   
 ### Connect With Me
