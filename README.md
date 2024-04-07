@@ -19,31 +19,23 @@ Skills: Flutter / Dart / HTML / Css / Scss / GIthub / Javascript / API / Firebas
 
 ### Connect With Me
 
-[<img align="left" alt="Bilol Tech | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
-[<img align="left" alt="Bilol Tech | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
-[<img align="left" alt="Bilol Tech | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
 [<img align="left" alt="Bilol Tech | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Bilol Tech | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="Bilol Tech | Website" width="28px" src="https://www.vectorlogo.zone/logos/upwork/upwork-tile.svg" />][upwork]
+[<img align="left" alt="Bilol Tech | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
+[<img align="left" alt="Bilol Tech | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
+[<img align="left" alt="Bilol Tech | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+
 
 <br />
 <br />
 
-
-<div align="center">
-Show some ❤️ by starring some of the repositories!
-<br />
-<br />
-<img align="center" src = "https://profile-counter.glitch.me/bilol-tech/count.svg" alt ="Loading...">
-</div>
-
-<br />
-<br />
 
 [telegram]: http://t.me/bilol_tech
 [mail]: mailto:biloltechh@gmail.com
+[upwork]: https://www.upwork.com/freelancers/~01e41cbde7864872c2
 [youtube]: https://www.youtube.com/@bilol_tech
 [linkedin]: https://www.linkedin.com/in/bilol-tech/
-[github]: https://github.com/bilol-tech
 [instagram]: https://www.instagram.com/bilol_tech
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
