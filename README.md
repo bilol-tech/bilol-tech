@@ -1,11 +1,11 @@
-<h1 align="center"> Hi 👋, I'm <a href="http://t.me/Bilol0004">Bilol Abdunazarov</a></h1>
-<h3 align="center">Flutter Developer 😜</h3>
+<h1 align="center"> Hi 👋, I'm <a href="http://t.me/bilol_tech">Bilol Tech</a></h1>
+<h3 align="center">Flutter Developer</h3>
 
 <div class="row">
     <img src="https://img.shields.io/github/followers/bilol-tech?label=Github%20followers&style=for-the-badge" alt="bilol-tech" />
     <img src="https://img.shields.io/github/stars/bilol-tech?label=Github%20stars&style=for-the-badge" alt="bilol-tech" />
     <a href="https://www.linkedin.com/in/bilol-tech/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/bilol-tech/" alt="Bilol" /> </a>
-    <a href="https://t.me/biloltech"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Telegram&link=https://t.me/biloltech" alt="Bilol" /> </a>
+    <a href="https://t.me/biloltech"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Telegram&link=https://t.me/bilol_tech" alt="Bilol" /> </a>
     <a href="https://instragram/bilol_tech/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Instagram&link=https://instagram/bilol_tech" alt="Bilol" /> </a>
 </div>
 
@@ -18,13 +18,13 @@ Skills: Flutter / Dart / HTML / Css / Scss / GIthub / Javascript / API / Firebas
   
 ### Connect With Me
 
-[<img align="left" alt="Bilol Abdunazarov | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
-[<img align="left" alt="Bilol Abdunazarov | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
-[<img align="left" alt="Bilol Abdunazarov | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
-[<img align="left" alt="Bilol Abdunazarov | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
-[<img align="left" alt="Bilol Abdunazarov | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="Bilol Abdunazarov | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
-[<img align="left" alt="Bilol Abdunazarov | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
+[<img align="left" alt="Bilol Tech | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
+[<img align="left" alt="Bilol Tech | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="Bilol Tech | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
+[<img align="left" alt="Bilol Tech | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="Bilol Tech | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="Bilol Tech | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="Bilol Tech | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
 
 <br />
 <br />
@@ -88,14 +88,12 @@ Show some ❤️ by starring some of the repositories!
 <br />
 <br />
 
-[telegram]: http://t.me/biloltech
-[mail]: https://mail.google.com/mail/u/0/#inbox
-[twitter]: https://twitter.com/Bilol8480
+[telegram]: http://t.me/bilol_tech
+[mail]: mailto:biloltechh@gmail.com
 [youtube]: https://www.youtube.com/@bilol_tech
 [linkedin]: https://www.linkedin.com/in/bilol-tech/
 [github]: https://github.com/bilol-tech
 [instagram]: https://www.instagram.com/bilol_tech
-[facebook]: https://www.facebook.com/bilol.abdunazarov.96
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
 [vscode]: https://code.visualstudio.com
