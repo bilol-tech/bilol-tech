@@ -1,10 +1,7 @@
-<h1 align="center"> Hi 👋, I'm <a href="http://t.me/bilol_tech">Bilol Tech</a></h1>
-<h3 align="center">Flutter Developer</h3>
-
-Skills: Flutter / Dart / HTML / Css / Scss / GIthub / Javascript / API / Firebase, Provider / Local - Store / OOP / Git / Http / Gitlab / GraphQl / Figma / WebSocket / RestAPI / Local Storage / Hive / Block / Cupertino Widgets / Themes
-
-- 🔭 &ensp; I’m currently search work for Flutter Development (Android and iOS)
-- ⚡ &ensp; Fun fact: I love coding.⭐
+### Hi there 👋 I am Bilol Tech, a Top Rated Flutter developer.
+- Check out my [blog](https://t.me/bilol_tech) and my [resume](https://docs.google.com/document/d/1lk2HEZA67CBesZIwwoOtgaV9HsBXm2y4gzMDm9LYJ0U/edit?usp=sharing).
+- I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01e41cbde7864872c2).
+<!-- - All of my projects are available at [my portfolio website](https://samabdullaev.vercel.app/). -->
 
 ### Languages and Tools
 
