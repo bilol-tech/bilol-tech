@@ -21,10 +21,8 @@ Skills: Flutter / Dart / HTML / Css / Scss / GIthub / Javascript / API / Firebas
 [<img align="left" alt="Bilol Tech | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
 [<img align="left" alt="Bilol Tech | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
 [<img align="left" alt="Bilol Tech | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
-[<img align="left" alt="Bilol Tech | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img align="left" alt="Bilol Tech | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Bilol Tech | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
-[<img align="left" alt="Bilol Tech | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
 
 <br />
 <br />
