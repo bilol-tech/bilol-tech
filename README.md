@@ -51,4 +51,4 @@
 [figma]: https://www.figma.com/
 [git]: https://git-scm.com/
 [xcode]: https://developer.apple.com/documentation/xcode
-[android]: https://git-scm.com/](https://developer.android.com/develop
+[android]: https://developer.android.com/develop
